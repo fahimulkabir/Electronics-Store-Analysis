@@ -1,4 +1,3 @@
-````markdown
 # 🛒 eCommerce Data Analysis and Demand Forecasting 📊
 
 ## 🚀 Project Overview
@@ -35,6 +34,7 @@ eCommerce-Data-Analysis/
 ├── requirements.txt        # Python dependencies
 └── LICENSE
 ```
+
 ````
 
 ---
@@ -189,18 +189,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🤝 Acknowledgements
 
-- Gabriele Cirulli for the original 2048 game idea.
 - Apache Software Foundation for providing a robust big data framework.
 - AWS for cloud services and infrastructure support.
 
 ## 📝 Contact
 
-**Your Name**  
-**Email**: [your-email@example.com](mailto:your-email@example.com)  
-**LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**Md Fahimul Kabir Chowdhury**
+**Email**: [info@tech2etc.com](mailto:info@tech2etc.com)
+**LinkedIn**: [Sent Me A Connection Request](https://bd.linkedin.com/in/fahimulkabirchowdhury)
 
 Feel free to reach out for collaborations, job opportunities, or any queries regarding this project!
-
-```
-
-```
+````
