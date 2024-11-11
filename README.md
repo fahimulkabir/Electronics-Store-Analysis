@@ -35,8 +35,6 @@ eCommerce-Data-Analysis/
 └── LICENSE
 ```
 
-````
-
 ---
 
 ## 📊 Dataset Overview
@@ -196,7 +194,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Md Fahimul Kabir Chowdhury**
 **Email**: [info@tech2etc.com](mailto:info@tech2etc.com)
-**LinkedIn**: [Sent Me A Connection Request](https://bd.linkedin.com/in/fahimulkabirchowdhury)
+**LinkedIn**: [Md Fahimul kabir Chowdhury](https://bd.linkedin.com/in/fahimulkabirchowdhury)
 
 Feel free to reach out for collaborations, job opportunities, or any queries regarding this project!
-````
